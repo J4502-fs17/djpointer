@@ -42,6 +42,7 @@ p{
 font-family: 'Quattrocento Sans', sans-serif;
 }
 
-#nav{
+#nav a:link, a:visited{
   font-family: 'Zilla Slab Highlight', cursive;
+  background-color:#ffbe0f; 
 }
