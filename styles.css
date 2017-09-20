@@ -1,7 +1,7 @@
 #container{
   text-align:center
 }
-#nav{
+#nav li{
   text-align:center
-  list-style:none;
+  list-style-type:none;
 }
