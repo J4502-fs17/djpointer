@@ -45,8 +45,8 @@ font-family: 'Quattrocento Sans', sans-serif;
 #nav a:link, a:visited{
 font-family: 'Sorts Mill Goudy', serif;
 font-style: italic;
-  color:#ffbe0f; ;
-display: inline-block;
+  color:#ffbe0f;
+display: grid;
     background-color:black;
     font-weight: bold;
     text-align:center;
