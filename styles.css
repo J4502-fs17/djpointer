@@ -33,5 +33,7 @@ img{
 
 h1{
   font-family: 'Lobster', cursive;
-  display: block;
+  background-color: #ffbe0f;
+  width: 95%;
+  margin: 0 auto;
 }
