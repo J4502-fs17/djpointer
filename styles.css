@@ -62,9 +62,9 @@ margin: 0 auto;
 
 #footer{
   color:black ;
-  font-family: 'Sorts Mill Goudy', serif;
+  font-family: 'Quattrocento Sans', sans-serif;
   font-weight: bold;
-  font-size: 0.8em;
+  font-size: 1.0em;
   border-top-style: double: : 1px solid black;
   background-color:#ffbe0f;
 }
