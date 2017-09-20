@@ -59,3 +59,10 @@ margin: 0 auto;
 #nav a:hover, a:active{
   background-color:#5c0554;
 }
+
+#footer{
+  color:#ffbe0f ;
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 0.8em;
+  border-top: 5px solid black;
+}
