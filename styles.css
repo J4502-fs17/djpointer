@@ -1,9 +1,11 @@
 #container{
-  text-align:center
+  margin: 0 auto;
+    width: 95%;
 }
 #nav{
   text-align:center;
   color:black;
+  list-style-type: none;
 }
 #nav li{
   margin: 0;
@@ -14,4 +16,17 @@
 
 body{
   background-color:#f61ca2;
+}
+
+#header{
+  text-align: center;
+}
+
+img{
+  border-style: none;
+  width: 150px;
+}
+
+.image{
+  text-align: center;
 }
