@@ -71,11 +71,19 @@ margin: 0 auto;
   background-color:#ffbe0f;
 }
 
-.nav{
+.nav ul{
+    display:block;
+    padding:0;
+    border-style:none;
   list-style-type:none;
-  display:grid;
   background-color:black;
+}
 
+.nav li a{
+    display:block;
+    padding:8px;
+    margin: 0 auto;
+    text-decoration:none;
 }
 
 .nav a:hover, a:active{
