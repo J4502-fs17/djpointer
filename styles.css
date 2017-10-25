@@ -77,18 +77,18 @@ margin: 0 auto;
     border-style:none;
   list-style-type:none;
   background-color:black;
+  text-decoration:none;
 }
 
 .nav li a{
     display:block;
     padding: 8px;
-    margin: 0 auto;
     text-decoration:none;
     background-color:black;
     list-style-type:none;
-    border-style:none;
+
 }
 
-.nav a:hover, a:active{  
+.nav a:hover, a:active{
   background-color:#5c0554
 }
