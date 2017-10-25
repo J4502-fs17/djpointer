@@ -70,3 +70,8 @@ margin: 0 auto;
   font-size: 1.0em;
   background-color:#ffbe0f;
 }
+
+.nav{
+  list-style-type:none;
+  background-color:black;
+}
