@@ -74,4 +74,9 @@ margin: 0 auto;
 .nav{
   list-style-type:none;
   background-color:black;
+
+}
+
+.nav a:hover, a:active{
+  background-color:#5c0554
 }
