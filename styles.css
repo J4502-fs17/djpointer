@@ -84,6 +84,8 @@ margin: 0 auto;
     padding:8px;
     margin: 0 auto;
     text-decoration:none;
+    background-color:black;
+    list-style-type:none;
 }
 
 .nav a:hover, a:active{
