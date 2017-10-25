@@ -73,14 +73,11 @@ margin: 0 auto;
 
 .nav{
   list-style-type:none;
+  display:grid;
   background-color:black;
 
 }
 
 .nav a:hover, a:active{
   background-color:#5c0554
-}
-
-.nav li{
-  border:0px solid;
 }
