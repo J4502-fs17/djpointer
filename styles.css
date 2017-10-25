@@ -77,12 +77,13 @@ margin: 0 auto;
     border-style:none;
   list-style-type:none;
   background-color:black;
-  width:50%;
+  width:100%;
 }
 
 .nav li a{
     display:block;
     padding: 8px;
+    width:100%;
     margin: 0 auto;
     text-decoration:none;
     background-color:black;
@@ -91,5 +92,6 @@ margin: 0 auto;
 }
 
 .nav a:hover, a:active{
+list-style-type:none;  
   background-color:#5c0554
 }
