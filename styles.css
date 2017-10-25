@@ -81,11 +81,11 @@ margin: 0 auto;
 
 .nav li a{
     display:block;
-    padding:8px;
     margin: 0 auto;
     text-decoration:none;
     background-color:black;
     list-style-type:none;
+    border-style:none;
 }
 
 .nav a:hover, a:active{
