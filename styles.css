@@ -10,6 +10,7 @@
   list-style-type: none;
 }
 .nav li{
+  text-align: left;
   padding: 0;
   border:0px solid;
   text-decoration: none;
