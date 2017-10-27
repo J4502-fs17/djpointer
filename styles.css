@@ -27,6 +27,7 @@ body{
 img{
   border-style: none;
   width: 200px;
+  display:block;
 }
 
 .image{
@@ -95,4 +96,10 @@ width:90%;
     text-align:center;
     text-decoration: none;
   padding: 4px;
+}
+
+ @media screen and (min-width:600px) {
+    img {
+    float:left;
+    }
 }
