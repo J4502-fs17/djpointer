@@ -83,7 +83,7 @@ width:50%;
 	}
 }
 
-.item-1{
-  flex-grow:1;
-  flex:0 1 auto;
+.item-1 {
+  align-items: stretch;
+ }
 }
