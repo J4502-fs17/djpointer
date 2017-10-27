@@ -79,6 +79,7 @@ width:50%;
 	.nav {
 		flex-direction: row;
 		justify-content: flex-end;
+    justify-content: space-around;
 
 	}
 }
@@ -90,10 +91,10 @@ width:50%;
 
 .item-2 {
   align-items: stretch;
-  width: 250px;
+  width: 200px;
 }
 
 .item-3 {
   align-items:stretch;
-  width:250px;
+  width:200px;
 }
