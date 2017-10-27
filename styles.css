@@ -59,6 +59,11 @@ width:95%;
     padding: 4px;
 }
 
+.nav{
+  display:flex;
+  flex-flow: column wrap;
+}
+
 .nav a:hover, a:active{
   background-color:#5c0554;
 }
