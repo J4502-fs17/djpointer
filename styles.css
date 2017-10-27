@@ -79,6 +79,11 @@ width:50%;
 	.nav {
 		flex-direction: row;
 		justify-content: center;
-    flex: initial;
+
 	}
+}
+
+.item-1{
+  flex-grow:1;
+  flex:0 1 auto;
 }
