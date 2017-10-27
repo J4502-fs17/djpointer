@@ -90,6 +90,6 @@ width:50%;
 @media (min-width: 800px) {
 
 	.item-1 {
-		flex:initial;
+		margin-right: auto;
 	}
 }
