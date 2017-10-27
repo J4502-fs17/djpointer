@@ -85,5 +85,7 @@ width:50%;
 
 .item-1 {
   align-items: stretch;
+  width:400px;
+  height:250px;
  }
 }
