@@ -74,23 +74,10 @@ width:50%;
   flex-direction: column;
 }
 
-.container {
-	display: flex;
-	flex-direction: column;
-
-}
 
 @media (min-width: 600px) {
-	.container {
+	.nav {
 		flex-direction: row;
 		justify-content: center;
-	}
-}
-
-@media (min-width: 800px) {
-
-	.item-1 {
-		flex-direction:row ;
-    flex: 1 0 auto;
 	}
 }
