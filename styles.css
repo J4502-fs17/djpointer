@@ -78,7 +78,7 @@ width:50%;
 @media (min-width: 600px) {
 	.nav {
 		flex-direction: row;
-		align-items:flex-end;
+		align-items:flex-start;
     flex-wrap: wrap;
 
 	}
