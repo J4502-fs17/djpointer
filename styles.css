@@ -80,6 +80,7 @@ width:50%;
 		flex-direction: row;
 		align-items: flex-start: flex-start;
     flex-wrap: wrap;
+    width:100%;
 	}
 }
 
