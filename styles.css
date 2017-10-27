@@ -78,28 +78,25 @@ width:50%;
 @media (min-width: 600px) {
 	.nav {
 		flex-direction: row;
-		align-content: center;
+		align-content: flex-end;
+    flex-wrap: wrap;
 
 
 	}
 }
 
 .item-1 {
-  align-items: flex-end;
   width:200px;
  }
 
 .item-2 {
-  align-items:flex-end;
   width: 200px;
 }
 
 .item-3 {
-  align-items:flex-end;
   width:200px;
 }
 
 .item-4 {
-  align-items:flex-end;
   width:200px;
 }
