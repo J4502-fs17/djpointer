@@ -99,7 +99,4 @@ width:90%;
 }
 
  @media screen and (min-width:600px) {
-    img {
-    float:left;
-    }
-}
+    
