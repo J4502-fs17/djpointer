@@ -31,13 +31,6 @@ img{
   text-align: center;
 }
 
-image{
-  width:200px;
-  margin:0 auto;
-  text-align:center;
-  display: block;
-}
-
 .image{
   text-align: center;
 }
@@ -93,6 +86,7 @@ width:50%;
 	}
 }
 
+
 .nav a:link, a:visited{
 font-family: 'Sorts Mill Goudy', serif;
 font-style: italic;
@@ -109,6 +103,6 @@ width:90%;
 }
 @media screen and (min-width:600px) {
     img {
-    float:left;
+    float:right;
     }
 }
