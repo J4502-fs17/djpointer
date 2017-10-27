@@ -71,9 +71,6 @@ width:50%;
   background-color:#ffbe0f;
 }
 
-image{
-  display:block;
-}
 
 .nav{
   display:flex;
@@ -106,7 +103,7 @@ width:90%;
 
 }
 @media screen and (min-width:600px) {
-    image {
+    img {
     float:left;
     }
 }
