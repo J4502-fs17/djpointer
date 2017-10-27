@@ -79,5 +79,6 @@ width:50%;
 	.nav {
 		flex-direction: row;
 		justify-content: center;
+    flex: 1 0 auto;
 	}
 }
