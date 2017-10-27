@@ -1,6 +1,6 @@
 #container{
   margin: 0 auto;
-    width: 80%;
+    width: 90%;
     background-color:#ffc1cb;
 }
 .nav{
@@ -49,7 +49,7 @@ font-family: 'Sorts Mill Goudy', serif;
 font-style: italic;
   color:#ffbe0f;
 display: grid;
-width:25%;
+width:50%;
     background-color:black;
     font-weight: bold;
     text-align:center;
