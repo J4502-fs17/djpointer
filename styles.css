@@ -61,7 +61,7 @@ width:95%;
 
 .nav{
   display:flex;
-  flex-flow: column wrap;
+  flex-direction:column-reverse;
 }
 
 .nav a:hover, a:active{
