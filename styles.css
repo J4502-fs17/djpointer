@@ -78,7 +78,7 @@ width:50%;
 @media (min-width: 600px) {
 	.nav {
 		flex-direction: row;
-		align-items: flex-start: flex-start;
+		align-items:flex-start;
     flex-wrap: wrap;
 
 	}
@@ -89,7 +89,7 @@ font-family: 'Sorts Mill Goudy', serif;
 font-style: italic;
   color:#ffbe0f;
 display: grid;
-width:100%;
+width:90%;
     background-color:black;
     font-weight: bold;
     text-align:center;
