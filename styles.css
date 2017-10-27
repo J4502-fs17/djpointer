@@ -84,6 +84,18 @@ width:50%;
 	}
 }
 
+.nav a:link, a:visited{
+font-family: 'Sorts Mill Goudy', serif;
+font-style: italic;
+  color:#ffbe0f;
+display: grid;
+width:100%;
+    background-color:black;
+    font-weight: bold;
+    text-align:center;
+    text-decoration: none;
+  padding: 4px;
+}
 .item-1 {
 
  }
@@ -97,5 +109,5 @@ width:50%;
 }
 
 .item-4 {
-  
+
 }
