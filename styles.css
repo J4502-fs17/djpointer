@@ -31,6 +31,13 @@ img{
   text-align: center;
 }
 
+image{
+  width:200px;
+  margin:0 auto;
+  text-align:center;
+  display: block;
+}
+
 .image{
   text-align: center;
 }
@@ -99,11 +106,9 @@ width:90%;
   padding: 4px;
 }
 
-image {
-    display: block;
 }
-@media screen and (min-width:800px) {
-    image {
+@media screen and (min-width:600px) {
+    img {
     float:left;
     }
 }
