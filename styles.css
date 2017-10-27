@@ -85,21 +85,21 @@ width:50%;
 }
 
 .item-1 {
-  align-items:stretch;
+  align-items: flex-end;
   width:200px;
  }
 
 .item-2 {
-  align-items: stretch;
+  align-items:flex-end;
   width: 200px;
 }
 
 .item-3 {
-  align-items:stretch;
+  align-items:flex-end;
   width:200px;
 }
 
 .item-4 {
-  align-items:stretch;
+  align-items:flex-end;
   width:200px;
 }
