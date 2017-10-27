@@ -89,7 +89,7 @@ font-family: 'Sorts Mill Goudy', serif;
 font-style: italic;
   color:#ffbe0f;
 display: grid;
-width:150%;
+width:90%;
     background-color:black;
     font-weight: bold;
     text-align:center;
@@ -97,17 +97,17 @@ width:150%;
   padding: 4px;
 }
 .item-1 {
-width:150px;
+width:100px;
  }
 
 .item-2 {
-width:150px;
+width:100px;
 }
 
 .item-3 {
-width:150px;
+width:100px;
 }
 
 .item-4 {
-width:150px;
+width:100px;
 }
