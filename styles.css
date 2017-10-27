@@ -80,22 +80,22 @@ width:50%;
 		flex-direction: row;
 		align-items: flex-start: flex-start;
     flex-wrap: wrap;
-    width:100%;
+
 	}
 }
 
 .item-1 {
-width:150px
+
  }
 
 .item-2 {
-  width: 150px;
+
 }
 
 .item-3 {
-width:150px;
+
 }
 
 .item-4 {
-  width:150px;
+  
 }
