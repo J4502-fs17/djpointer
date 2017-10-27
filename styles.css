@@ -60,6 +60,7 @@ width:50%;
 .nav{
   display:flex;
   flex-direction: column;
+  flex-basis:auto;
 }
 
 .nav a:hover, a:active{
@@ -78,7 +79,5 @@ width:50%;
 	.nav {
 		flex-direction: row;
 		justify-content: center;
-    flex-wrap: wrap;
-    justify-content: space-around;
+
 	}
-}
