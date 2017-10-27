@@ -60,6 +60,7 @@ width:50%;
 .nav{
   display:flex;
   flex-direction: column;
+  flex-wrap:wrap;
 
 }
 
