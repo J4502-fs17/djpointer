@@ -86,16 +86,10 @@ width:50%;
 		justify-content: center;
 	}
 }
+
 @media (min-width: 800px) {
 
 	.item-1 {
-	flex-basis:auto;
-  flex:0 1 auto;
+		flex:initial;
 	}
-
-.item-2 {
-
-}
-
-
 }
