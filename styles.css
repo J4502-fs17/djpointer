@@ -78,7 +78,7 @@ width:50%;
 @media (min-width: 600px) {
 	.nav {
 		flex-direction: row;
-		align-content: flex-end;
+		align-items: flex-start: flex-start;
     flex-wrap: wrap;
 
 
@@ -86,17 +86,17 @@ width:50%;
 }
 
 .item-1 {
-  width:200px;
+  width:150px;
  }
 
 .item-2 {
-  width: 200px;
+  width: 150px;
 }
 
 .item-3 {
-  width:200px;
+  width:150px;
 }
 
 .item-4 {
-  width:200px;
+  width:150px;
 }
