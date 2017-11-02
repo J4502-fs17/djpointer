@@ -56,6 +56,7 @@ width:50%;
     font-weight: bold;
     text-align:center;
     text-decoration: none;
+      padding: 4px;
 }
 
 .nav a:hover, a:active{
@@ -107,5 +108,6 @@ image {
 @media screen and (min-width:600px) {
     img {
     float:left;
+    margin-left:20px; 
     }
 }
