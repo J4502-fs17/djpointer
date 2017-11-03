@@ -122,8 +122,8 @@ width:90%;
         grid-template-columns: 200px 1fr 1fr;
         grid-gap: 20px;
         grid-template-areas:
-            " b  . a c"
-            " e . d d ";
+            " b a a"
+            " . c e ";
       }
 
       .section1 {
@@ -152,19 +152,7 @@ width:90%;
       }
 
 
-
-    @media screen and (min-width:1200px) {
-      article {
-        display: grid;
-        grid-template-columns: 200px 1fr 1fr 1fr;
-        grid-gap: 20px;
-        grid-template-areas:
-            "b  a a"
-            "c  e d";
-      }
-    }
-
-
+}
 
 
 
