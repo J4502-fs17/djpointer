@@ -136,6 +136,7 @@ width:90%;
       }
 
       .section2 {
+        margin-left:20px
         grid-area: c;
       }
 
@@ -161,5 +162,15 @@ width:90%;
       grid-template-areas:
           "b a a"
           "c d e";
+    }
+
+    .section2 {
+      margin-left:20px
+      grid-area: c;
+    }
+
+    .picture2{
+      width:800%
+      grid-area:e;
     }
   }
