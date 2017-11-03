@@ -159,9 +159,9 @@ width:90%;
         grid-template-columns: 200px 1fr 1fr 1fr;
         grid-gap: 20px;
         grid-template-areas:
-            "a b b e"
-            "c c c ."
-            ". d d .";
+            "b a a"
+            ". e c "
+            "c d d";
       }
     }
 
