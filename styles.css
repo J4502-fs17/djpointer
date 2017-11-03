@@ -146,6 +146,7 @@ width:90%;
 
       .picture2{
         grid-area:e;
+        float: right;
       }
 
 
