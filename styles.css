@@ -122,11 +122,9 @@ width:90%;
         grid-template-columns: 200px 1fr 1fr;
         grid-gap: 20px;
         grid-template-areas:
-            " b a a"
-             "e c c ";
+            " b a a a"
+             "c c . e ";
       }
-
-
 
       .section1 {
         grid-area: a;
@@ -149,9 +147,9 @@ width:90%;
       }
 
 
-      .section1 p:first-of-type, .section2 p:first-of-type {
+      /*.section1 p:first-of-type, .section2 p:first-of-type {
         margin-top: 0;
-      }
+      }*/
 
     }
 
