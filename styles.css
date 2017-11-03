@@ -123,7 +123,7 @@ width:90%;
         grid-gap: 20px;
         grid-template-areas:
             " b a a."
-             ". c e ";
+             "c c . e ";
       }
 
 
@@ -155,17 +155,7 @@ width:90%;
 
     }
 
-    /*@media screen and (min-width:1200px) {
-      article {
-        display: grid;
-        grid-template-columns: 200px 1fr 1fr 1fr;
-        grid-gap: 20px;
-        grid-template-areas:
-            "b a a"
-            ". c e "
-            ". d d ";
-      }
-    }*/
+
 
 
 
