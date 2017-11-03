@@ -122,32 +122,32 @@ width:90%;
         grid-template-columns: 200px 1fr 1fr;
         grid-gap: 20px;
         grid-template-areas:
-            "a b b"
-            "c c e"
-            ". d d";
+            "b a e"
+            ". c .";
       }
 
-      .authorbox {
-        width: 100%;
+
+
+      .section1 {
         grid-area: a;
       }
 
-      .section1 {
+      .image {
         grid-area: b;
       }
 
-      .image {
+      .section2 {
         grid-area: c;
       }
 
-      .section2 {
-        grid-area: d;
+      .section3{
+        grid-area:d;
       }
 
-      .pullquote {
-        margin-top: 0;
-        grid-area: e;
+      .picture2{
+        grid-area:e;
       }
+
 
       .section1 p:first-of-type, .section2 p:first-of-type {
         margin-top: 0;
@@ -161,7 +161,7 @@ width:90%;
         grid-template-columns: 200px 1fr 1fr 1fr;
         grid-gap: 20px;
         grid-template-areas:
-            "a b b e"
+            "b "
             "c c c ."
             ". d d .";
       }
