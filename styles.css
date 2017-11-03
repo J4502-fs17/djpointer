@@ -116,7 +116,7 @@ width:90%;
       grid-template-columns:200px 1fr 1fr;
     }
 
-    @media screen and (min-width:800px) {
+    @media screen and (min-width:1000px) {
       article {
         display: grid;
         grid-template-columns: 200px 1fr 1fr;
