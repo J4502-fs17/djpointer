@@ -112,6 +112,7 @@ width:90%;
       display:grid;
       grid-template-columns:200px 1fr 1fr;
     }
+}
 
     @media screen and (min-width:1000px) {
       article {
@@ -161,4 +162,4 @@ width:90%;
           "b a a"
           "c d e";
     }
-  }
+}
