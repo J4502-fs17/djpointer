@@ -165,7 +165,7 @@ width:90%;
 }
 
 
-header{
+#header{
   diplay:flex;
   flex-flow:row;
   margin: 0;
@@ -175,10 +175,11 @@ header{
 .menu-trigger{
   order:1;
   color:black;
+  background-color:black;
   width:2em;
 }
 
- header h1{
+ #header h1{
   order:2;
 }
 
@@ -186,7 +187,12 @@ header{
   display:none;
 }
 
-@media screen and (mind-width:700px){
+@media screen and (mind-width:800px){
+
+  .menu-trigger{
+    display:none;
+  }
+
  .nav{
     display:flex;
   }
@@ -195,11 +201,11 @@ header{
     border-top:none
   }
 
-  .menu-trigger{
+  /*.menu-trigger{
     display:none;
-  }
+  }*/
 
-header h1 {
+#header h1 {
   order:1;
 }
 
