@@ -172,19 +172,20 @@ header{
 
 .menu-trigger{
   order:1;
-  color:black;
+  column-fill:black;
+  margin: auto 0;
 }
 
-header h1{
+/*header h1{
   order:2;
-}
+}*/
 
-#nav{
+.nav{
   display:none;
 }
 
-@media screen and (mind-width:700){
-  #nav{
+@media screen and (mind-width:600){
+  .nav{
     display:flex;
   }
 
