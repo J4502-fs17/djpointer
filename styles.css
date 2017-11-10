@@ -172,7 +172,7 @@ header{
 
 .menu-trigger{
   order:1;
-  column-fill:black;
+  background-color:black;
   width:2em;
 }
 
@@ -180,12 +180,12 @@ header{
   order:2;
 }
 
-#nav{
+.nav{
   display:none;
 }
 
 @media screen and (mind-width:700){
- #nav{
+ .nav{
     display:flex;
 
   }
