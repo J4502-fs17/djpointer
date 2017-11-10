@@ -192,13 +192,13 @@ header h1{
     display:none;
   }
 
-#nav{
+/*#nav{
   border-top:none;
-}
+}*/
 
-nav{
+/*nav{
   order:2;
-}
+}*/
 
 header h1{
   order:1;
