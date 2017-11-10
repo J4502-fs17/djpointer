@@ -171,7 +171,7 @@ header{
 }
 
 .menu-trigger{
-  order:1;
+  /*order:1;*/
   column-fill:black;
   margin: auto 0;
 }
@@ -180,12 +180,12 @@ header{
   order:2;
 }*/
 
-.nav{
+#nav{
   display:none;
 }
 
-@media screen and (mind-width:600){
-  .nav{
+@media screen and (mind-width:700){
+  #nav{
     display:flex;
   }
 
@@ -201,10 +201,10 @@ header{
   order:2;
 }*/
 
-header h1{
+/*header h1{
   order:1;
   }
-}
+}*/
 /*.menu-trigger{
   order:1;
 }
