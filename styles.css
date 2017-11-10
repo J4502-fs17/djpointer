@@ -171,73 +171,25 @@ header{
 }
 
 .menu-trigger{
-  /*order:1;*/
+  order:1;
   column-fill:black;
-  margin: auto 0;
+  width:2em;
 }
 
-/*header h1{
+header h1{
   order:2;
-}*/
+}
 
 #nav{
   display:none;
 }
 
 @media screen and (mind-width:700){
-  #nav{
+ #nav{
     display:flex;
+
   }
 
   .menu-trigger{
     display:none;
   }
-
-/*#nav{
-  border-top:none;
-}*/
-
-/*nav{
-  order:2;
-}*/
-
-/*header h1{
-  order:1;
-  }
-}*/
-/*.menu-trigger{
-  order:1;
-}
-
-h1{
-  order:2;
-}
-
-nav ul{
-  display:none;
-}
-
-nav ul li{
-  border-top:none;
-}
-
-@media screen and (mind-width:700){
-  nav ul{
-    display:flex;
-  }
-
-  .menu-trigger{
-    display:none;
-  }
-
-  nav ul li{
-    border-top:none;
-  }
-
-  nav{
-  order:2;
-}
-
-header h1{
-  order:1;
-  }*/
