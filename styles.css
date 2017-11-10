@@ -168,15 +168,17 @@ width:90%;
 header{
   diplay:flex;
   flex-flow:row;
+  margin: 0;
+  padding: 0 10px;
 }
 
 .menu-trigger{
   order:1;
-  background-color:black;
+  color:black;
   width:2em;
 }
 
- h1{
+ header h1{
   order:2;
 }
 
@@ -184,12 +186,23 @@ header{
   display:none;
 }
 
-@media screen and (mind-width:700){
+@media screen and (mind-width:700px){
  .nav{
     display:flex;
+  }
 
+  .nav{
+    border-top:none
   }
 
   .menu-trigger{
     display:none;
   }
+
+header h1 {
+  order:1;
+}
+
+nav{
+  order: 2;
+}
