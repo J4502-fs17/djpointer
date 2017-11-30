@@ -19,6 +19,21 @@ body{
   background-color:#f61ca2;
 }
 
+.map-wrapper {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-wrapper iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 #header{
   text-align: center;
   font-size: 1.5em;
